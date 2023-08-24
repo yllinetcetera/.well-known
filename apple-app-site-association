@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "KK9EAH2XGX.com.sixgroup.debixplus.develop",
+                "paths": ["/*"]
+            }
+        ]
+    }
+}
